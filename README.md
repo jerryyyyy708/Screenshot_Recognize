@@ -2,7 +2,7 @@
 ## Dataset Information & datasource
 This dataset consists of 964 photos, with 500 photos from screenshots (including screenshots from games, animate, message application…etc), and 464 photos from camera. 
 
-To make it easier to be used in model, the photos are resized into 64x64. 
+The photos are resized into 64x64 in order to save memories. 
 (for your own picture, you can use img_resizer.py to transform it)
 
 The mission is to classify whether the given picture is screenshot or from camera.
